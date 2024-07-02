@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning GraphQL and Data 
 - 💞️ Looking to collaborate with big or medium enterprises. 
 - 📫 Please get in touch with me at the following email address: luiluego@gmail.com
+- LinkedIn: https://www.linkedin.com/in/luis-alberto-camarillo-flores-a95b81271/
 - 😄 Pronouns: He
 - ⚡ Fun fact: The more you know, the more you realize there is more to learn.
